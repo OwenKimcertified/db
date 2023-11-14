@@ -1,2 +1,8 @@
-# db
-mysql, mongodb, jdbc, etc
+# MySQL  
+
+db(Cluster) sharding
+
+
+# MongoDB
+
+TTL index
