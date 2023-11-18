@@ -2,6 +2,7 @@
 
 db(Cluster) sharding
 
+Json type api request
 
 # MongoDB
 
