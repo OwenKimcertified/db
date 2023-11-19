@@ -1,6 +1,7 @@
 # MySQL  
 
-db(Cluster) sharding
+### Typical Distributed Processing Architecture
+MySQL NDB Cluster (Network Database) 
 
 Json type api request
 
