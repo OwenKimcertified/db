@@ -7,6 +7,8 @@ Json type api request
 
 MySQL NDB Cluster(Docker) build
 
+initial tutorial
+
 # MongoDB
 
 TTL index
