@@ -7,6 +7,8 @@ Json type api request
 
 ### DOCUMENT PAGE
 
+0. what is NDB
+
 1. MySQL NDB Cluster(Docker) build
 
 2. Initial Configuration of NDB Cluster
