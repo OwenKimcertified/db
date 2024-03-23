@@ -24,3 +24,7 @@ Json type api request
 0. why MongoDB is popular?
 
 1. TTL index
+
+# Hadoop
+
+0. HDFS
