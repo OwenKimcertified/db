@@ -1,5 +1,9 @@
 # MySQL  
 
+### Workbench ERD
+
+- deliver ERD
+
 ### Typical Distributed Processing Architecture
 MySQL NDB Cluster (Network Database) 
 
